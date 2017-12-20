@@ -6,7 +6,7 @@
   <h3 align="center">Bootstrap</h3>
 
   <p align="center">
-    Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+    This is an massively slimmed down version of Twitter’s Bootstrap.
     <br>
     <a href="https://getbootstrap.com/docs/4.0/"><strong>Explore Bootstrap docs »</strong></a>
     <br>
