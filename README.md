@@ -13,4 +13,3 @@
     <br>
     <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
   </p>
-</p>
